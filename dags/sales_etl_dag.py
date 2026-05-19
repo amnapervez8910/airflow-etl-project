@@ -92,7 +92,7 @@ def load(ti):
 # DAG Definition (Defines workflow and scheduling)
 with DAG(
     dag_id='sales_etl_pipeline',
-    start_date=datetime(2024, 1, 1),
+    start_date=datetime(2026, 4 , 1),
     schedule_interval='@daily',   # Run every day
     catchup=False,                # Do not run past missed schedules
     max_active_runs=1             # Only one run at a time

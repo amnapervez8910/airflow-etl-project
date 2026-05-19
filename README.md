@@ -108,5 +108,3 @@ Amna Pervez
 ## 🔗 Conclusion
 
 This project successfully demonstrates how Apache Airflow can be used to automate data pipelines efficiently. It provides a scalable foundation for real-world data engineering workflows.
-
-

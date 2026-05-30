@@ -15,7 +15,7 @@ The pipeline generates random sales data, processes it, and produces meaningful 
 ## 🛠️ Technologies Used
 - Python  
 - Apache Airflow  
-- CSV (Data Storage)  
+- CSV ( For Data Storage)  
 
 ---
 

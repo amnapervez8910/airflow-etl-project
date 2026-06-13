@@ -1,5 +1,5 @@
 from airflow import DAG
-from airflow.operator.python import PythonOperator
+from airflow.operators.python import PythonOperator
 from datetime import datetime
 import csv
 import random
